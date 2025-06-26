@@ -9,8 +9,9 @@ function App() {
     <>
       <div>
         <img src={balanceLogoNapis} className="logo-napis" alt="Balance Concept" />
-        <h1>Pilates</h1>
+        <br/>
         <img src={balanceLogoLudek} className="logo-ludek" alt="Logo Balance Concept" />
+        <h1>Pilates</h1>
         <p className="copyright">© 2025 Balance Concept.</p>
       </div>
     </>
